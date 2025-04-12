@@ -16,4 +16,5 @@ b.It includes several features, whether for an individual or a group, including 
 access control and permissions, managing public and private repositories, creating branches to work on new features (Branching), Issue Tracking, 
 and integration with CI/CD systems to automatically test the code.
 c.Yes, a team can collaborate on a software project without relying on popular code hosting providers like GitHub or GitLab, by setting up a self-service server to host a version management system.
-4. 
+4. The -u sign means upstream, and the -u sign facilitates workflow, by creating a virtual relationship between the local branch and the remote branch, reducing duplicate commands and simplifying branch management. 
+Influence: Pushing changes is easier after -u as long as you type the git push command, and git automatically recognizes that you want to push changes to origin and adds it to pull changes to the code easily with git pull

@@ -1,0 +1,6 @@
+1.
+a. Shows the status of existing files in the project, such as files in the staging area that were added by git add but not stored in git commit,
+ files that were modified but not added to the staging area, and new files added to the project but not tracked by Git.
+b. The first step of any project is to define the project by creating a new Git repository in the project file and then start saving the modifications
+c. A command to save the modification in staging area to the repository with an accompanying explanatory message
+d. Sharing modifications stored by the git commit command to the github repository and moving them from local to remote
